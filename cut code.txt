@@ -1,0 +1,4 @@
+cutted these line from book_ticket2.php
+
+echo "<td class=\"fix_table_short\">Passenger's Frequent Flier ID (if applicable)</td>";
+echo "<td class=\"fix_table_short\"><input type=\"text\" name=\"pass_ff_id[]\"></td>";
